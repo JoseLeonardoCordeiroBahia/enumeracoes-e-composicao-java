@@ -1,4 +1,4 @@
-package _3_composicao.exemplo.entities;
+package _3_composicao._1_exemplo.exemplo1.entities;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package _3_composicao.exemplo.application;
+package _3_composicao._1_exemplo.exemplo1.application;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -6,10 +6,10 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
-import _3_composicao.exemplo.entities.Department;
-import _3_composicao.exemplo.entities.HourContract;
-import _3_composicao.exemplo.entities.Worker;
-import _3_composicao.exemplo.entities.enums.WorkerLevel;
+import _3_composicao._1_exemplo.exemplo1.entities.Department;
+import _3_composicao._1_exemplo.exemplo1.entities.HourContract;
+import _3_composicao._1_exemplo.exemplo1.entities.Worker;
+import _3_composicao._1_exemplo.exemplo1.entities.enums.WorkerLevel;
 
 public class Program {
 

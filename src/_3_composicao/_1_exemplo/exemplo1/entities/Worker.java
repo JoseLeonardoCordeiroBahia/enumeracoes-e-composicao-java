@@ -1,10 +1,10 @@
-package _3_composicao.exemplo.entities;
+package _3_composicao._1_exemplo.exemplo1.entities;
 
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-import _3_composicao.exemplo.entities.enums.WorkerLevel;
+import _3_composicao._1_exemplo.exemplo1.entities.enums.WorkerLevel;
 
 public class Worker {
 
